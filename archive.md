@@ -2,9 +2,10 @@
 layout: page
 title: Problem of the Week
 ---
-### Archive
+### Archives
 
 - [Fall 2021-Spring 2022 Academic Year]({{ site.baseurl }}/20212022)
+- Fall 2020-Spring 2021 Academic Year  **Canceled due to COVID-19**
 - [Fall 2019-Spring 2020 Academic Year]({{ site.baseurl }}/20192020)
 - [Fall 2018-Spring 2019 Academic Year]({{ site.baseurl }}/20182019)
 
