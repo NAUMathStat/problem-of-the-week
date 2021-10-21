@@ -3,4 +3,4 @@ layout: page
 title: Problem of the Week
 ---
 
-{% include_relative files/2021-10-20.html %}
+{% include_relative files/2021-10-27.html %}
