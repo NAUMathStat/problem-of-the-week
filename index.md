@@ -10,7 +10,7 @@ title: Problem of the Week
 <p>
 The contest is open to all undergraduates at Northern Arizona University. Solutions are due at midnight of every Wednesday. 
 <p>
-Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Googl form</a> as a pdf or jpg of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like
+Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Google form</a> as a pdf or jpg of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like
 CamScanner or Adobe Scan.
 
 <p>The answers should be clearly and logically explained.  The goal is to write mathematics, not to
