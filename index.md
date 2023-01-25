@@ -3,7 +3,7 @@ layout: page
 title: Problem of the Week
 ---
 
-{% include_relative files/2023-01-25.html %}
+{% include_relative files/2023-02-01.html %}
 
 <hr>
 <b>Rules for Problem of the Week</b>
@@ -30,5 +30,5 @@ Send your questions to Rachel Neville at
 	Problems will be graded on a scale of 1 to 3.  A model solution is posted each week.
 	A ladder listing the points earned is posted in the lobby of the Adel Math Building 
 	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
-	Let me know if you want to remain anonymous on the posted ladder.
+	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
 </p>
