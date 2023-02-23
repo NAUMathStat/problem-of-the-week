@@ -3,7 +3,7 @@ layout: page
 title: Problem of the Week
 ---
 
-{% include_relative files/2023-02-22.html %}
+{% include_relative files/2023-03-01.html %}
 
 <hr>
 <b>Rules for Problem of the Week</b>
