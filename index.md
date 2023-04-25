@@ -3,9 +3,9 @@ layout: page
 title: Problem of the Week
 ---
 
-<---! 
-{% include_relative files/2023-04-19.html %} 
---->
+
+ {% include_relative files/2023-04-26.html %} 
+
 
 <!---<hr>
 <b>Rules for Problem of the Week</b>
@@ -18,10 +18,6 @@ Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Goog
  to write down the answer and draw a box around it.
 </p> 
 ---> 
-
-<b> Problem of the Week Concluded for Spring Semester <b> 
-
-<p> Thank you for your participation. A big congratualations to Travis for being the Problem Solver of the Year with Heather in a close second. </p>
 
 <!---<p>
 Send your questions to Rachel Neville at
@@ -39,3 +35,5 @@ Send your questions to Rachel Neville at
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
 </p> 
 --->
+
+<p> Check back in the fall for more Problem of the Week fun! <p> 
