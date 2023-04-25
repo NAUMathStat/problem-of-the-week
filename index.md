@@ -3,9 +3,11 @@ layout: page
 title: Problem of the Week
 ---
 
-{% include_relative files/2023-04-19.html %}
+<---! 
+{% include_relative files/2023-04-19.html %} 
+--->
 
-<hr>
+<!---<hr>
 <b>Rules for Problem of the Week</b>
 <p>
 The contest is open to all undergraduates at Northern Arizona University. Solutions are due at midnight of every Wednesday. 
@@ -14,9 +16,14 @@ Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Goog
 
 <p>**The answers should be clearly and logically explained. ** The goal is to write mathematics, not to
  to write down the answer and draw a box around it.
-</p>
+</p> 
+---> 
 
-<p>
+<b> Problem of the Week Concluded for Spring Semester <b> 
+
+<p> Thank you for your participation. A big congratualations to Travis for being the Problem Solver of the Year with Heather in a close second. </p>
+
+<!---<p>
 Send your questions to Rachel Neville at
 <a href="mailto:Rachel.Neville@nau.edu?subject=potw" target="_blank">Rachel.Neville@nau.edu</a>.  
 
@@ -30,4 +37,5 @@ Send your questions to Rachel Neville at
 	A ladder listing the points earned is posted in the lobby of the Adel Math Building 
 	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
-</p>
+</p> 
+--->
