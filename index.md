@@ -4,7 +4,7 @@ title: Problem of the Week
 ---
 
 
- {% include_relative files/2023-04-26.html %} 
+ <!---{% include_relative files/2023-04-26.html %} --->
 
 
 <!---<hr>
@@ -36,4 +36,4 @@ Send your questions to Rachel Neville at
 </p> 
 --->
 
-<p> Check back in the fall for more Problem of the Week fun! <p> 
+<p> Stay tuned! Problem of the Week will resume soon! (Fall 2023) <p> 
