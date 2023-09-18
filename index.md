@@ -3,23 +3,22 @@ layout: page
 title: Problem of the Week
 ---
 
-[//]: # ({% include_relative files/2023-04-26.html %}) 
+[//]: # ({% include_relative files/2023-09-22.html %}) 
 
 
 
-<!---<hr>
+<hr>
 <b>Rules for Problem of the Week</b>
 <p>
-The contest is open to all undergraduates at Northern Arizona University. Solutions are due at midnight of every Wednesday. 
+The contest is open to all undergraduates at Northern Arizona University. Solutions are due at 3pm every Friday. 
 <p>
-Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Google form</a> as a pdf or jpg of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan.
+Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Google form</a> as a pdf of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan or scan at the library. 
 
-<p>**The answers should be clearly and logically explained. ** The goal is to write mathematics, not to
- to write down the answer and draw a box around it.
+<p>**The answers should be clearly and logically explained. ** The goal is to write a convincing mathematical argument that supports your solution, not to write down the answer and draw a box around it.
 </p> 
 ---> 
 
-<!---<p>
+<p>
 Send your questions to Rachel Neville at
 <a href="mailto:Rachel.Neville@nau.edu?subject=potw" target="_blank">Rachel.Neville@nau.edu</a>.  
 
@@ -34,6 +33,3 @@ Send your questions to Rachel Neville at
 	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
 </p> 
---->
-
-<p> Stay tuned! Problem of the Week will resume soon! (Fall 2023) <p> 
