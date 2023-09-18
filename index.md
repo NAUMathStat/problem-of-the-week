@@ -28,7 +28,7 @@ Send your questions to Rachel Neville at
 </p>
 
 <p>
-	Problems will be graded on a scale of 1 to 3.  A model solution is posted each week.
+	Problems will be graded on a scale of 1 to 4.  A model solution is posted each week.
 	A ladder listing the points earned is posted in the lobby of the Adel Math Building 
 	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
