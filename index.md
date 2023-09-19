@@ -3,7 +3,7 @@ layout: page
 title: Problem of the Week
 ---
 
-[//]: # ({% include_relative files/2023-09-22.html %}) 
+{% include_relative files/2023-09-22.html %}
 
 
 
@@ -16,7 +16,7 @@ Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Goog
 
 <p>**The answers should be clearly and logically explained. ** The goal is to write a convincing mathematical argument that supports your solution, not to write down the answer and draw a box around it.
 </p> 
----> 
+
 
 <p>
 Send your questions to Rachel Neville at
