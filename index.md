@@ -4,7 +4,7 @@ title: Problem of the Week
 ---
 
 
-{% include_relative files/2023-11-17.html %}
+{% include_relative files/2023-12-01.html %}
 
 
 
