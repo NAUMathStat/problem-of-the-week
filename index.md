@@ -4,12 +4,9 @@ title: Problem of the Week
 ---
 
 
-<!-- {% include_relative files/2024-05-03.html %} -->
+{% include_relative files/2024-09-30.html %}
 
-<b> Summer Break! </b>
-<p> Problem of the week is on summer break! Check back in the fall for more puzzling goodness! </p> 
-
-<!-- <hr>
+<hr>
 <b>Rules for Problem of the Week</b>
 <p>
 The contest is open to all undergraduates at Northern Arizona University. Solutions are due at 3pm every Friday. 
@@ -35,4 +32,3 @@ Send your questions to Rachel Neville at
 	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
 </p> 
- -->
