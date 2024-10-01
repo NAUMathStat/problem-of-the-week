@@ -4,26 +4,30 @@ title: Problem of the Week
 ---
 
 
-{% include_relative files/2024-09-30.html %}
+<object data="files/pdfs/2024-09-30.pdf" type="application/pdf" width="700px" height="700px">
+	<embed src="files/pdfs/2024-09-30.pdf">
+		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2024-09-30.pdf">Download PDF</a>.</p>
+	</embed>
+</object>
 
 <hr>
 <b>Rules for Problem of the Week</b>
 <p>
-The contest is open to all undergraduates at Northern Arizona University. Solutions are due at 3pm every Friday. 
+The contest is open to all undergraduates at Northern Arizona University. Solutions are due at 11:59pm every Monday. 
 <p>
-Submit your solutions to <a href="https://forms.gle/LgCLL5vhwUn6h5eA7">this Google form</a> as a pdf of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan or scan at the library. 
+<p>Due Monday, October 7, 2024 at 11:59 pm submitted to 
+<a href="https://www.gradescope.com/courses/884166"> this Gradescope Course as a pdf of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan or scan at the library.</a> <b> You might need to create an account with your NAU email. To enroll into the Problem of the Week course use entry code: NYZ56P. </b>  
 
 <p>**The answers should be clearly and logically explained. ** The goal is to write a convincing mathematical argument that supports your solution, not to write down the answer and draw a box around it.
 </p> 
 
 
 <p>
-Send your questions to Rachel Neville at
-<a href="mailto:Rachel.Neville@nau.edu?subject=potw" target="_blank">Rachel.Neville@nau.edu</a>.  
-
+Send your questions to Mikhail Baltushkin or Ian Williams at
+<a href="mailto:Mikhail.Baltushkin@nau.edu?subject=potw" target="_blank">Mikhail.Baltushkin@nau.edu</a>.  
+<a href="mailto:Ian.Williams@nau.edu?subject=potw" target="_blank">Ian.Williams@nau.edu</a>
 	If your instructor gives you credit for submissions to problem of the week, please include their name
-	and the class in the form (e.g. Swift, MAT 239) the first time you submit a solution.  
-(After that I have the information in my spreadsheet.)
+	and the class in the form (e.g. Swift, MAT 239)
 </p>
 
 <p>
