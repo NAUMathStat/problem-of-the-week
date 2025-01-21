@@ -5,7 +5,7 @@ title: Problem of the Week
 
 
 <object data="files/pdfs/2025-1-21.pdf" type="application/pdf" width="900px" height="900px">
-	<embed src="files/pdfs/2024-11-18.pdf">
+	<embed src="files/pdfs/2025-1-21.pdf">
 		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-1-21.pdf">Download PDF</a>.</p>
 	</embed>
 </object>
