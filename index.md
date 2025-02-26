@@ -4,9 +4,9 @@ title: Problem of the Week
 ---
 
 
-<object data="files/pdfs/2025-2-24.pdf" type="application/pdf" width="900px" height="900px">
-	<embed src="files/pdfs/2025-2-24.pdf">
-		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-2-24.pdf">Download PDF</a>.</p>
+<object data="files/pdfs/2025-3-23.pdf" type="application/pdf" width="900px" height="900px">
+	<embed src="files/pdfs/2025-3-3.pdf">
+		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-3-3.pdf">Download PDF</a>.</p>
 	</embed>
 </object>
 
@@ -31,8 +31,8 @@ Send your questions to Mikhail Baltushkin or Ian Williams at
 </p>
 
 <p>
-	Problems will be graded on a scale of 1 to 4.  A model solution is posted each week.
+	Problems will be graded on a scale of 1 to 4.  <!--A model solution is posted each week.
 	A ladder listing the points earned is posted in the lobby of the Adel Math Building 
-	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.
+	(across from the MAP room).  Your name will be printed on the ladder, but no names will be published on the web.-->
 	Let me know if you want to remain anonymous on the posted ladder and what name you would prefer to use.
 </p> 
