@@ -12,9 +12,11 @@ title: Problem of the Week
 
 <hr>
 <b>Rules for Problem of the Week</b>
+
 <p>
 The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a $100 and a $50 prize respectively. Solutions are due at 11:59pm every Monday. 
-<p>
+</p>
+
 <p>Due Monday, Sep 22nd, 2025 at 11:59 pm submitted to 
 <a href="https://www.gradescope.com/courses/884166"> this Gradescope Course</a> as a pdf of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan or scan at the library. <b> You might need to create an account with your NAU email. To enroll into the Problem of the Week course use entry code: NYZ56P. </b>  
 
