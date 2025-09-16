@@ -14,7 +14,7 @@ title: Problem of the Week
 <b>Rules for Problem of the Week</b>
 
 <p>
-The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a \$ 100 and a \$ 50 prize respectively. Solutions are due at 11:59pm every Monday. 
+The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a \\$100 and a \\$50 prize respectively. Solutions are due at 11:59pm every Monday. 
 </p>
 
 <p>Due Monday, Sep 22nd, 2025 at 11:59 pm submitted to 
