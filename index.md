@@ -4,18 +4,18 @@ title: Problem of the Week
 ---
 
 
-<object data="files/pdfs/2025-9-15.pdf" type="application/pdf" width="900px" height="900px">
-	<embed src="files/pdfs/2025-9-15.pdf">
-		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-9-15.pdf">Download PDF</a>.</p>
+<object data="files/pdfs/2025-9-22.pdf" type="application/pdf" width="900px" height="900px">
+	<embed src="files/pdfs/2025-9-22.pdf">
+		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-9-22.pdf">Download PDF</a>.</p>
 	</embed>
 </object>
 
 <hr>
 <b>Rules for Problem of the Week</b>
 <p>
-The contest is open to all undergraduates at Northern Arizona University. Solutions are due at 11:59pm every Monday. 
+The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a $100 and a $50 prize respectively. Solutions are due at 11:59pm every Monday. 
 <p>
-<p>Due Monday, Sep 15th, 2025 at 11:59 pm submitted to 
+<p>Due Monday, Sep 22nd, 2025 at 11:59 pm submitted to 
 <a href="https://www.gradescope.com/courses/884166"> this Gradescope Course</a> as a pdf of either typed or neatly handwritten and scanned work. If you don't have access to a scanner use a phone app like CamScanner or Adobe Scan or scan at the library. <b> You might need to create an account with your NAU email. To enroll into the Problem of the Week course use entry code: NYZ56P. </b>  
 
 <p>**The answers should be clearly and logically explained. ** The goal is to write a convincing mathematical argument that supports your solution, not to write down the answer and draw a box around it.
