@@ -4,9 +4,9 @@ title: Problem of the Week
 ---
 
 
-<object data="files/pdfs/2025-9-22.pdf" type="application/pdf" width="900px" height="900px">
-	<embed src="files/pdfs/2025-9-22.pdf">
-		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-9-22.pdf">Download PDF</a>.</p>
+<object data="files/pdfs/2025-9-29.pdf" type="application/pdf" width="900px" height="900px">
+	<embed src="files/pdfs/2025-9-29.pdf">
+		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-9-29.pdf">Download PDF</a>.</p>
 	</embed>
 </object>
 
@@ -14,7 +14,7 @@ title: Problem of the Week
 <b>Rules for Problem of the Week</b>
 
 <p>
-The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a \$100 and a \$50 prize respectively. Solutions are due at 11:59pm every Monday. 
+The use of online resources is only permitted to clarify basic definitions needed for the problem. Otherwise, no use of calculators and/or online resources (including Gemini, ChatGPT, etc.) is premitted. The contest is open to all undergraduates at Northern Arizona University. The top two problem solvers of the semester will receive a \$100 and a \$50 prize respectively. Solutions are due at 11:59pm every Monday. 
 </p>
 
 <p>Due Monday, Sep 22nd, 2025 at 11:59 pm submitted to 
