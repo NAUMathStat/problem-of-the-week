@@ -4,9 +4,9 @@ title: Problem of the Week
 ---
 
 
-<object data="files/pdfs/2025-9-29.pdf" type="application/pdf" width="900px" height="900px">
-	<embed src="files/pdfs/2025-9-29.pdf">
-		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-9-29.pdf">Download PDF</a>.</p>
+<object data="files/pdfs/2025-10-6.pdf" type="application/pdf" width="900px" height="900px">
+	<embed src="files/pdfs/2025-10-6.pdf">
+		<p>Please download the PDF to view the problem of the week: <a href="files/pdfs/2025-10-6.pdf">Download PDF</a>.</p>
 	</embed>
 </object>
 
