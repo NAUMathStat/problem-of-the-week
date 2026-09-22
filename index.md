@@ -24,7 +24,7 @@ title: Problem of the Week
   <p>Prove that your list of solutions is complete.</p>
 </div>
 
-<p><a href="files/pdfs/2026-9-28.pdf">Printable PDF of Problem #1 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-9-28.pdf">Printable PDF of Problem #1</a></p>
 </div>
 
 <div>
@@ -49,7 +49,6 @@ If your instructor gives credit for Problem of the Week, add their name and cour
   <li><strong>Explain your reasoning.</strong> The goal is a clear, convincing mathematical argument, not an answer with a box around it. A correct answer without justification earns at most 1 point.</li>
   <li><strong>Be ready to explain it.</strong> The coordinator may ask any participant to talk through their solution in a short conversation (in person or on Teams). A submission you can't explain will receive a score of 0.</li>
   <li><strong>Don't share solutions</strong> or post them online before the deadline.</li>
-  <li>Breaking these rules removes you from the ladder for the semester, and your instructor will not receive credit for your participation.</li>
 </ol>
 <p><em>By submitting, you certify that your solution is entirely your own work and follows these rules.</em></p>
 
@@ -63,8 +62,8 @@ If your instructor gives credit for Problem of the Week, add their name and cour
   <li><strong>0</strong> &ndash; no meaningful progress, or a rule violation</li>
 </ul>
 <p>
-A ladder of total points is posted in the lobby of the Adel Math Building (across from the MAP room).
-Names appear on the posted ladder but are never published on this website. If you'd prefer a nickname on the ladder,
+A ladder of total points is posted in Canvas.
+Names appear on the posted ladder. If you'd prefer a nickname on the ladder,
 or to be left off, send a Canvas message. A model solution is posted in Canvas after each deadline.
 </p>
 
@@ -78,6 +77,5 @@ Questions asking to clarify what a problem means are welcome; hints are not give
 <p>
 Previous problems and their model solutions are posted in the
 <a href="https://ac.nau.edu/lms-apps/self-enroll/545026">Problem of the Week Canvas course</a>.
-Only the current problem appears on this page.
 </p>
 </div>
