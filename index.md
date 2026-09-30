@@ -15,16 +15,16 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #1: A Product of Four</h2>
-<p><strong>Fall 2026 &middot; Due Monday, September 28 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #2: One in Front</h2>
+<p><strong>Fall 2026 &middot; Due Monday, October 5 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>Find all real numbers \(x\) such that</p>
-  <p style="text-align: center;">\[(x+1)(x+3)(x+5)(x+7) = 9.\]</p>
-  <p>Prove that your list of solutions is complete.</p>
+  <p>Find all integers \(n \ge 1\) with the property that writing the digit \(1\) in front of
+  the decimal representation of \(n^2\) produces exactly \(n^3\). For instance, if \(n^2\)
+  were \(37\), the new number would be \(137\).</p>
 </div>
 
-<p><a href="files/pdfs/2026-9-28.pdf">Printable PDF of Problem #1</a></p>
+<p><a href="files/pdfs/2026-10-5.pdf">Printable PDF of Problem #2 (same content as this page)</a></p>
 </div>
 
 <div>
@@ -49,6 +49,7 @@ If your instructor gives credit for Problem of the Week, add their name and cour
   <li><strong>Explain your reasoning.</strong> The goal is a clear, convincing mathematical argument, not an answer with a box around it. A correct answer without justification earns at most 1 point.</li>
   <li><strong>Be ready to explain it.</strong> The coordinator may ask any participant to talk through their solution in a short conversation (in person or on Teams). A submission you can't explain will receive a score of 0.</li>
   <li><strong>Don't share solutions</strong> or post them online before the deadline.</li>
+  <li>Breaking these rules removes you from the ladder for the semester, and your instructor will not receive credit for your participation.</li>
 </ol>
 <p><em>By submitting, you certify that your solution is entirely your own work and follows these rules.</em></p>
 
@@ -62,8 +63,8 @@ If your instructor gives credit for Problem of the Week, add their name and cour
   <li><strong>0</strong> &ndash; no meaningful progress, or a rule violation</li>
 </ul>
 <p>
-A ladder of total points is posted in Canvas.
-Names appear on the posted ladder. If you'd prefer a nickname on the ladder,
+A ladder of total points is posted in the lobby of the Adel Math Building (across from the MAP room).
+Names appear on the posted ladder but are never published on this website. If you'd prefer a nickname on the ladder,
 or to be left off, send a Canvas message. A model solution is posted in Canvas after each deadline.
 </p>
 
@@ -77,5 +78,6 @@ Questions asking to clarify what a problem means are welcome; hints are not give
 <p>
 Previous problems and their model solutions are posted in the
 <a href="https://ac.nau.edu/lms-apps/self-enroll/545026">Problem of the Week Canvas course</a>.
+Only the current problem appears on this page.
 </p>
 </div>
