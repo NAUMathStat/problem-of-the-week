@@ -15,16 +15,20 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #2: One in Front</h2>
-<p><strong>Fall 2026 &middot; Due Monday, October 5 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #3: Two Points of Contact</h2>
+<p><strong>Fall 2026 &middot; Due Monday, October 12 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>Find all integers \(n \ge 1\) with the property that writing the digit \(1\) in front of
-  the decimal representation of \(n^2\) produces exactly \(n^3\). For instance, if \(n^2\)
-  were \(37\), the new number would be \(137\).</p>
+  <p>A circle and a right triangle with sides \(3\), \(4\), \(5\) sit inside a rectangle.
+  The circle touches the top, bottom, and left sides of the rectangle. The triangle sits in the
+  lower-right corner: its leg of length \(3\) lies along the bottom side, its leg of length \(4\)
+  runs the full height of the right side, and its hypotenuse is tangent to the circle.</p>
+  <p>Find the length of the segment joining the point where the circle touches the top side to the
+  point where the circle touches the hypotenuse (the dashed segment in the figure).</p>
+  <p style="text-align: center;"><img src="files/images/2026-10-12.png" width="258" alt="Diagram: a rectangle with a circle touching its top, bottom, and left sides. A shaded right triangle in the lower-right corner has a leg of length 3 along the bottom side, a leg of length 4 along the right side, and a hypotenuse of length 5 that touches the circle. A dashed segment joins the point where the circle touches the top side to the point where it touches the hypotenuse."></p>
 </div>
 
-<p><a href="files/pdfs/2026-10-5.pdf">Printable PDF of Problem #2 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-10-12.pdf">Printable PDF of Problem #3 (same content as this page)</a></p>
 </div>
 
 <div>
