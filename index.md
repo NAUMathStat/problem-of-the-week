@@ -15,17 +15,17 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #4: Two, Three, Six</h2>
-<p><strong>Fall 2026 &middot; Due Monday, October 19 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #5: Ending in Three</h2>
+<p><strong>Fall 2026 &middot; Due Monday, October 26 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>Let \(a\), \(b\), and \(c\) be real numbers with \(a \neq 0\), and suppose the equation</p>
-  <p style="text-align: center;">\[ax^2 + bx + c = 0\]</p>
-  <p>has no real solutions. Prove that</p>
-  <p style="text-align: center;">\[a\,(2a + 3b + 6c) > 0.\]</p>
+  <p>For a positive integer \(n\), look at the last digit of \(n^n\). For example, \(3^3 = 27\) ends in \(7\), and \(4^4 = 256\) ends in \(6\).</p>
+  <p>(a) Find all positive integers \(n\) for which \(n^n\) ends in the digit \(3\).</p>
+  <p>(b) What fraction of the positive integers have this property? More precisely, let \(A(N)\) be the number of integers \(n\) with \(1 \le n \le N\) for which \(n^n\) ends in \(3\). Find</p>
+  <p style="text-align: center;">\[\lim_{N \to \infty} \frac{A(N)}{N}.\]</p>
 </div>
 
-<p><a href="files/pdfs/2026-10-19.pdf">Printable PDF of Problem #4 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-10-26.pdf">Printable PDF of Problem #5 (same content as this page)</a></p>
 </div>
 
 <div>
