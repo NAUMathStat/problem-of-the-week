@@ -15,17 +15,16 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #5: Ending in Three</h2>
-<p><strong>Fall 2026 &middot; Due Monday, October 26 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #6: A Floor Plan</h2>
+<p><strong>Fall 2026 &middot; Due Monday, November 2 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>For a positive integer \(n\), look at the last digit of \(n^n\). For example, \(3^3 = 27\) ends in \(7\), and \(4^4 = 256\) ends in \(6\).</p>
-  <p>(a) Find all positive integers \(n\) for which \(n^n\) ends in the digit \(3\).</p>
-  <p>(b) What fraction of the positive integers have this property? More precisely, let \(A(N)\) be the number of integers \(n\) with \(1 \le n \le N\) for which \(n^n\) ends in \(3\). Find</p>
-  <p style="text-align: center;">\[\lim_{N \to \infty} \frac{A(N)}{N}.\]</p>
+  <p>Find all pairs of real numbers \((x, y)\) that satisfy both equations</p>
+  <p style="text-align: center;">\[2x + \lfloor y \rfloor = 2026 \qquad\text{and}\qquad 3y + \lfloor 2x \rfloor = 2027.\]</p>
+  <p>Here \(\lfloor t \rfloor\) denotes the greatest integer less than or equal to \(t\). For example, \(\lfloor 2.7 \rfloor = 2\), \(\lfloor 5 \rfloor = 5\), and \(\lfloor -1.5 \rfloor = -2\).</p>
 </div>
 
-<p><a href="files/pdfs/2026-10-26.pdf">Printable PDF of Problem #5 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-11-2.pdf">Printable PDF of Problem #6 (same content as this page)</a></p>
 </div>
 
 <div>
