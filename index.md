@@ -15,16 +15,15 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #6: A Floor Plan</h2>
-<p><strong>Fall 2026 &middot; Due Monday, November 2 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #7: A Square Integral</h2>
+<p><strong>Fall 2026 &middot; Due Monday, November 9 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>Find all pairs of real numbers \((x, y)\) that satisfy both equations</p>
-  <p style="text-align: center;">\[2x + \lfloor y \rfloor = 2026 \qquad\text{and}\qquad 3y + \lfloor 2x \rfloor = 2027.\]</p>
-  <p>Here \(\lfloor t \rfloor\) denotes the greatest integer less than or equal to \(t\). For example, \(\lfloor 2.7 \rfloor = 2\), \(\lfloor 5 \rfloor = 5\), and \(\lfloor -1.5 \rfloor = -2\).</p>
+  <p>Find all continuous functions \(f \colon \mathbb{R} \to \mathbb{R}\) such that</p>
+  <p style="text-align: center;">\[\bigl(f(x)\bigr)^2 = \int_0^x f(t)\,dt \qquad \text{for every real number } x.\]</p>
 </div>
 
-<p><a href="files/pdfs/2026-11-2.pdf">Printable PDF of Problem #6 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-11-9.pdf">Printable PDF of Problem #7 (same content as this page)</a></p>
 </div>
 
 <div>
