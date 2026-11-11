@@ -15,15 +15,17 @@ title: Problem of the Week
 ==================================================== -->
 
 <div>
-<h2>Problem #7: A Square Integral</h2>
-<p><strong>Fall 2026 &middot; Due Monday, November 9 at 11:59 pm (Arizona time)</strong></p>
+<h2>Problem #8: A Sum of Sides</h2>
+<p><strong>Fall 2026 &middot; Due Monday, November 16 at 11:59 pm (Arizona time)</strong></p>
 
 <div style="border-left: 6px solid #003466; padding: 10px 18px; background-color: #eef2f7; font-size: 1.1em;">
-  <p>Find all continuous functions \(f \colon \mathbb{R} \to \mathbb{R}\) such that</p>
-  <p style="text-align: center;">\[\bigl(f(x)\bigr)^2 = \int_0^x f(t)\,dt \qquad \text{for every real number } x.\]</p>
+  <p>In triangle \(ABC\), the point \(D\) lies on side \(\overline{BC}\). Suppose that</p>
+  <p style="text-align: center;">\[\angle ABC = 80^\circ, \qquad \angle BDA = 70^\circ, \qquad\text{and}\qquad AC = AB + BD.\]</p>
+  <p>Find the angle \(\alpha = \angle BCA\), and prove that your answer is correct. (The figure is not needed for the solution.)</p>
+  <p style="text-align: center;"><img src="files/images/2026-11-16.png" width="300" alt="Diagram: triangle ABC with B at the lower left, C at the lower right, and A at the top, above and slightly to the right of B. Point D lies on side BC, closer to B than to C, and segment AD is drawn. The angle at B is marked 80 degrees, the angle BDA is marked 70 degrees, and the angle at C is marked alpha."></p>
 </div>
 
-<p><a href="files/pdfs/2026-11-9.pdf">Printable PDF of Problem #7 (same content as this page)</a></p>
+<p><a href="files/pdfs/2026-11-16.pdf">Printable PDF of Problem #8 (same content as this page)</a></p>
 </div>
 
 <div>
